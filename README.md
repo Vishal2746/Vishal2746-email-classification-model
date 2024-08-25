@@ -13,7 +13,6 @@ This Jupyter Notebook demonstrates a spam vs. ham classifier using a logistic re
 2. **Feature Extraction**: Process of converting text data into features.
 3. **Model Training**: Training the logistic regression model.
 4. **Results**: Accuracy and performance of the model.
-5. **Conclusion**: Summary and next steps.
 
 ## Requirements
 
